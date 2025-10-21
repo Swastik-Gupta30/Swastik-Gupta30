@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Swastik Gupta</h1>
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Swastik+Gupta;Welcome+to+my+README" alt="Typing SVG" /></a>
+</h1><img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRxNXhkN2htY2dub2dtejVidWI0aWUyeXo1cTlvNTJxZ2VtbjlkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 <h3 align="center">A passionate Full Stack Developer and Technology Enthusiast pursuing my B.Tech at MNNIT Allahabad. I love building impactful, scalable projects and exploring the intersection of software development, AI, and sustainability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-gupta30&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-gupta30" /> </p>
@@ -20,3 +22,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik-gupta30&show_icons=true&locale=en&layout=compact" alt="swastik-gupta30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik-gupta30&show_icons=true&locale=en" alt="swastik-gupta30" /></p>
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
